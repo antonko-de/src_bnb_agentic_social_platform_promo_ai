@@ -1,0 +1,4 @@
+#add .env and config.yaml to the gitignore
+.env
+
+configs/config.yaml
