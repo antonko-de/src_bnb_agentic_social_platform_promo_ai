@@ -9,6 +9,7 @@ dependencies = [
     # Core AI & OpenAI
     "openai>=1.52.0",
     "tiktoken>=0.7.0",
+    "agents",
     
     # Web & API
     "fastapi>=0.104.0",
@@ -30,4 +31,12 @@ dependencies = [
     # Utilities
     "tenacity>=8.2.0",
     "pip",
-    "pyyaml",]
+    "pyyaml",
+    "pytest"]
+
+[pytest]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+
