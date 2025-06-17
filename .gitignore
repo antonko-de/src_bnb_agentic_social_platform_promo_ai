@@ -2,3 +2,17 @@
 .env
 
 configs/config.yaml
+
+# Node.js dependencies
+node_modules/
+
+
+.vscode/settings.json
+package.json
+package-lock.json
+configs/__pycache__/settings.cpython-312.pyc
+tests/__pycache__/test_settings.cpython-312-pytest-8.4.0.pyc
+tests/__pycache__/__init__.cpython-312.pyc
+configs/__pycache__/settings.cpython-312.pyc
+uv.lock
+
