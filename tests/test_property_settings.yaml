@@ -1,0 +1,8 @@
+property_id: "1234567890"
+property_bedrooms: 1
+property_name: "Test Spot"        
+property_description: "test description"
+property_location: "test location"
+property_type: Studio
+max_guests: 2
+property_bathrooms: 1
