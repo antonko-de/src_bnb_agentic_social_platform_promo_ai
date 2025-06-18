@@ -1,7 +1,0 @@
-openai_api_key: test_key
-max_tokens: 2
-market_intelligence_agent_model: test_model
-content_creation_agent_model: test_model
-pricing_optimization_agent_model: test_model
-campaing_management_agent_model: test_model
-content_evaluator_agent_model: test_model

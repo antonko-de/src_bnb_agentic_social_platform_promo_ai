@@ -16,3 +16,5 @@ tests/__pycache__/__init__.cpython-312.pyc
 configs/__pycache__/settings.cpython-312.pyc
 uv.lock
 
+configs/__pycache__/settings.cpython-312.pyc
+configs/llm_config.yaml
